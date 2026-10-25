@@ -4,7 +4,7 @@
       "type": "http",
       "url": "https://platform.delilegal.com/api/v1/mcp",
       "headers": {
-        "Authorization": "Bearer ${sk-a0a014da382807790c7018151a297e67703cf6cf68c21b22497257ec82096a76f5c256a33d06f52d09e35ca72e263936}"
+        "Authorization": "Bearer ${DELI_API_KEY}"
       }
     }
   }
