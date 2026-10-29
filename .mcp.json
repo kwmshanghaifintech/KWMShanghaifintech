@@ -4,11 +4,6 @@
       "type": "http",
       "url": "https://platform.delilegal.com/api/v1/mcp",
       "headers": { "Authorization": "Bearer ${DELI_API_KEY}" }
-    },
-    "jianwei": {
-      "type": "http",
-      "url": "https://<替换为真实地址>",
-      "headers": { "Authorization": "Bearer ${JIANWEI_API_KEY}" }
     }
   }
 }
